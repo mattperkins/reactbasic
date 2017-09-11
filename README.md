@@ -1,11 +1,11 @@
-## Ultra simple React.js starter project skeleton
+# Ultra simple React.js starter project skeleton
 
 ## Install dependencies and start server
 
-### yarn
-### npm start
+### $yarn
+### $npm start
 
 ## Options
 
-### npm test
-### npm run build
+### $npm test
+### $npm run build
