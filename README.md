@@ -3,7 +3,7 @@
 ## Install dependencies and start server
 
 ### $yarn
-### $npm start
+### $yarn start
 
 ## Options
 
