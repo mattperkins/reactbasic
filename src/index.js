@@ -3,12 +3,15 @@ import ReactDOM from 'react-dom';
 import registerServiceWorker from './registerServiceWorker';
 
 const LemonStyle = {
- color: 'red',
+ color: '#ff00aa',
  fontFamily: 'sans-serif',
- background: '#f7f7f7',
+ background: '#eee',
  fontSize: 24,
  display: 'inline-block',
- padding: 5,
+ padding: 10,
+ top: 0,
+ left: 10,
+ position: 'absolute',
 }
 const Lemon = ({lemon}) => 
  <p style={LemonStyle}>{lemon}</p>
