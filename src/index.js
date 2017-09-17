@@ -1,6 +1,6 @@
-import React, {Component} from 'react';
-import ReactDOM from 'react-dom';
-import registerServiceWorker from './registerServiceWorker';
+import React, {Component} from 'react'
+import ReactDOM from 'react-dom'
+import registerServiceWorker from './registerServiceWorker'
 
 const LemonStyle = {
  color: '#ff00aa',
@@ -23,11 +23,11 @@ class App extends Component {
      <div>
       <Lemon lemon="I am lemon" /> 
      </div>
-    );
+    )
   }
 }
 
 
 
-ReactDOM.render(<App />, document.getElementById('root'));
-registerServiceWorker();
+ReactDOM.render(<App />, document.getElementById('root'))
+registerServiceWorker()
