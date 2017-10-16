@@ -1,11 +1,9 @@
-# Ultra simple React.js starter project skeleton
+# React MobX starter template
+### Ejected from create-react-app exposing all dependencies
+### Added MobX @ decorators etc
 
-## Install dependencies and start server
+## yarn (install dependencies)
+## yarn start
+## http://localhost:3000/
 
-### $yarn
-### $yarn start
 
-## Options
-
-### $npm test
-### $npm run build
